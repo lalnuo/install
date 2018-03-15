@@ -5,6 +5,7 @@ brew tap caskroom/versions
 brew cask install java8
 brew cask install visual-studio-code
 brew cask install spectacle
+brew cask install hipchat
 brew install ack
 brew install fzf
 # To install useful key bindings and fuzzy completion:
